@@ -13,6 +13,7 @@ Install via `npm`/`yarn`:
 ```sh
 $ npm i -S redux-selectr
 ```
+
 ## Usage
 
 ### Build a selector
